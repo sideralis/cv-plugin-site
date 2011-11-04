@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/Intel_IMC_CV_Plugin_1.14.0.201111031723.jar" id="Intel_IMC_CV_Plugin" version="1.14.0.201111031723">
+      <category name="Intel IMC"/>
+   </feature>
+   <category-def name="Intel IMC" label="CV plugin v1.14.0"/>
+</site>
